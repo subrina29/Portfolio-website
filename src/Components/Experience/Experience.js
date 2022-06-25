@@ -1,11 +1,11 @@
 import { Row, Col } from "antd";
 import "./Experience.css";
 export const Experience = () => {
-  const handleHover = (e) => {
-    e.target.style.cursor = "none";
-    e.target.style.color = "rgba(255, 255, 255, 0.85)";
-    e.target.style["border-bottom"] = "none";
-  };
+  // const handleHover = (e) => {
+  //   e.target.style.cursor = "none";
+  //   e.target.style.color = "rgba(255, 255, 255, 0.85)";
+  //   e.target.style["border-bottom"] = "none";
+  // };
   return (
     <div id="experience">
       <Row style={{ marginTop: "37vh" }}>
