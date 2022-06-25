@@ -1,0 +1,133 @@
+.linkedin-image {
+  font-size: 60px;
+}
+.github-image {
+  font-size: 60px;
+}
+.instagram-image {
+  font-size: 70px;
+}
+.gmail-image {
+  font-size: 65px;
+  margin-top: 5px;
+}
+.contact-container {
+  width: 25%;
+  float: left;
+}
+@media screen and (min-width: 3840px) {
+  .contact-header {
+    font-size: 45px;
+    margin-left: 5%;
+  }
+  .links-wrapper {
+    margin-left: -10%;
+  }
+  .contact-container {
+    width: 15%;
+    float: left;
+  }
+}
+@media screen and (max-width: 1630px) {
+  .linkedin-image {
+    font-size: 50px;
+  }
+  .github-image {
+    font-size: 50px;
+  }
+  .instagram-image {
+    font-size: 65px;
+  }
+  .gmail-image {
+    font-size: 55px;
+    margin-top: 5px;
+  }
+  .contact-container {
+    width: 25%;
+    float: left;
+  }
+}
+@media screen and (max-width: 1105px) {
+  .linkedin-image {
+    font-size: 40px;
+  }
+  .github-image {
+    font-size: 40px;
+  }
+  .instagram-image {
+    font-size: 55px;
+  }
+  .gmail-image {
+    font-size: 40px;
+    margin-top: -3px;
+  }
+  .contact-container {
+    width: 25%;
+    float: left;
+  }
+}
+@media screen and (min-width: 1050px) and (max-width: 1178px) {
+  .contact-header {
+    font-size: 25px;
+  }
+}
+@media screen and (max-width: 993px) {
+  .contact-header {
+    font-size: 25px;
+  }
+}
+@media screen and (max-width: 970px) {
+  .linkedin-image {
+    font-size: 40px;
+  }
+  .github-image {
+    font-size: 40px;
+  }
+  .instagram-image {
+    font-size: 55px;
+  }
+  .gmail-image {
+    font-size: 40px;
+    margin-top: 5px;
+  }
+  .contact-container {
+    width: 25%;
+    float: left;
+  }
+}
+@media screen and (max-width: 769px) {
+  .linkedin-image {
+    font-size: 40px;
+  }
+  .github-image {
+    font-size: 40px;
+  }
+  .instagram-image {
+    font-size: 55px;
+  }
+  .gmail-image {
+    font-size: 40px;
+  }
+  .contact-container {
+    width: 25%;
+    float: left;
+  }
+}
+@media screen and (max-width: 609px) {
+  .contact-header {
+    font-size: 20px;
+  }
+  .instagram-image {
+    font-size: 45px;
+  }
+}
+@media screen and (max-width: 483px) {
+  .gmail-image {
+    font-size: 40px;
+    margin-top: 0px;
+  }
+  .contact-container {
+    width: 25%;
+    float: left;
+  }
+}

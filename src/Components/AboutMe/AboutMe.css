@@ -1,0 +1,97 @@
+.about-first,
+.about-second,
+.about-third,
+.about-fourth {
+  color: rgb(168, 164, 164);
+  font-size: 16px;
+}
+.image {
+  width: 50%;
+  height: 50%;
+}
+.about-heading {
+  border-bottom: 2px solid rgb(168, 164, 164);
+}
+@media screen and (min-width: 3840px) {
+  .about-heading {
+    font-size: 40px;
+  }
+  .about-first,
+  .about-second,
+  .about-third,
+  .about-fourth {
+    font-size: 26px;
+  }
+  .image {
+    width: 50%;
+    height: 50%;
+  }
+}
+@media screen and (max-width: 1505px) {
+  .image {
+    width: 75%;
+    height: 75%;
+  }
+}
+@media screen and (min-width: 1178px) and (max-width: 1330px) {
+  .about-first,
+  .about-second,
+  .about-third,
+  .about-fourth {
+    font-size: 15px;
+  }
+  .image {
+    width: 70%;
+    height: 70%;
+  }
+}
+@media screen and (min-width: 1050px) and (max-width: 1178px) {
+  .about-first,
+  .about-second,
+  .about-third,
+  .about-fourth {
+    font-size: 11px;
+  }
+  .about-heading {
+    font-size: 25px;
+  }
+  .image {
+    width: 60%;
+    height: 60%;
+  }
+}
+@media screen and (max-width: 993px) {
+  .image {
+    width: 25%;
+    height: 25%;
+  }
+}
+@media screen and (max-width: 804px) {
+  .image {
+    width: 40%;
+    height: 40%;
+  }
+}
+@media screen and (max-width: 532px) {
+  .image {
+    width: 60%;
+    height: 60%;
+  }
+}
+@media screen and (max-width: 702px) {
+  .about-first,
+  .about-second,
+  .about-third,
+  .about-fourth {
+    font-size: 15px;
+  }
+}
+@media screen and (max-width: 474px) {
+  .about-first,
+  .about-second,
+  .about-third,
+  .about-fourth {
+    font-size: 14px;
+    margin-top: -10px;
+  }
+}

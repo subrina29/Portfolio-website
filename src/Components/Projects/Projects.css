@@ -1,0 +1,72 @@
+.rce-description,
+.codebot-description,
+.portfolio-description,
+.chatting-description,
+.musicbot-description {
+  font-size: 16px;
+}
+.ant-card-head-title {
+  background-color: #141414;
+}
+.ant-card-extra {
+  border: 2px solid #141414;
+  background-color: #141414;
+}
+@media screen and (min-width: 3840px) {
+  .projects-heading {
+    font-size: 40px;
+  }
+  .rce-description,
+  .codebot-description,
+  .portfolio-description,
+  .chatting-description,
+  .musicbot-description {
+    font-size: 23px;
+  }
+  .remote-code-card,
+  .discord-codebot-card,
+  .portfolio-card,
+  .chatting-app-card,
+  .discord-musicbot-card {
+    width: 80%;
+  }
+}
+@media screen and (min-width: 1050px) and (max-width: 1178px) {
+  .rce-description,
+  .codebot-description,
+  .portfolio-description,
+  .chatting-description,
+  .musicbot-description {
+    font-size: 11px;
+  }
+  .projects-heading {
+    font-size: 25px;
+  }
+}
+@media screen and (width: 1024px) {
+  .rce-description,
+  .codebot-description,
+  .portfolio-description,
+  .chatting-description,
+  .musicbot-description {
+    font-size: 14px;
+  }
+}
+@media screen and (max-width: 702px) {
+  .rce-description,
+  .codebot-description,
+  .portfolio-description,
+  .chatting-description,
+  .musicbot-description {
+    font-size: 16px;
+  }
+}
+@media screen and (max-width: 474px) {
+  .rce-description,
+  .codebot-description,
+  .portfolio-description,
+  .chatting-description,
+  .musicbot-description {
+    font-size: 15px;
+  }
+}

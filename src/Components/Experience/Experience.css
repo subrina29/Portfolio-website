@@ -1,0 +1,51 @@
+.list {
+  font-size: 16px;
+}
+@media screen and (min-width: 3840px) {
+  .experience-heading {
+    font-size: 40px;
+  }
+  .prepiit-heading,
+  .fossee-heading,
+  .imocha-heading {
+    font-size: 34px;
+  }
+  .role-heading {
+    font-size: 30px;
+  }
+  .list {
+    font-size: 26px;
+  }
+}
+@media screen and (min-width: 1050px) and (max-width: 1178px) {
+  .experience-heading {
+    font-size: 25px;
+  }
+  .prepiit-heading,
+  .fossee-heading,
+  .imocha-heading {
+    font-size: 20px;
+  }
+  .role-heading {
+    font-size: 15px;
+  }
+  .list {
+    font-size: 11px;
+  }
+}
+@media screen and (max-width: 702px) {
+  .list {
+    font-size: 15px;
+  }
+  .role-heading {
+    font-size: 27px;
+  }
+}
+@media screen and (max-width: 474px) {
+  .list {
+    font-size: 14px;
+  }
+  .role-heading {
+    font-size: 23px;
+  }
+}

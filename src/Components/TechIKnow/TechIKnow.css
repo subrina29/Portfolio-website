@@ -1,0 +1,83 @@
+.techiknow-heading {
+  border-bottom: 2px solid rgb(168, 164, 164);
+}
+.frameworks,
+.devops,
+.database,
+.languages {
+  font-size: 16px;
+}
+.techiknow-first,
+.techiknow-second,
+.techiknow-third {
+  color: rgb(168, 164, 164);
+  font-size: 16px;
+}
+@media screen and (min-width: 3840px) {
+  .techiknow-heading {
+    font-size: 40px;
+  }
+  .techiknow-first,
+  .techiknow-second,
+  .techiknow-third,
+  .frameworks,
+  .devops,
+  .database,
+  .languages {
+    font-size: 26px;
+  }
+  .frameworks-heading,
+  .devops-heading,
+  .database-heading,
+  .languages-heading {
+    font-size: 34px;
+  }
+}
+@media screen and (min-width: 1178px) and (max-width: 1330px) {
+  .techiknow-first,
+  .techiknow-second,
+  .techiknow-third {
+    font-size: 15px;
+  }
+}
+@media screen and (min-width: 1050px) and (max-width: 1178px) {
+  .techiknow-first,
+  .techiknow-second,
+  .techiknow-third {
+    font-size: 11px;
+  }
+  .frameworks-heading,
+  .devops-heading,
+  .database-heading,
+  .languages-heading {
+    font-size: 17px;
+  }
+  .frameworks,
+  .devops,
+  .database,
+  .languages {
+    font-size: 12px;
+  }
+  .techiknow-heading {
+    font-size: 25px;
+  }
+}
+@media screen and (max-width: 702px) {
+  .techiknow-first,
+  .techiknow-second,
+  .techiknow-third,
+  .frameworks,
+  .devops,
+  .database,
+  .languages {
+    font-size: 15px;
+  }
+}
+@media screen and (max-width: 474px) {
+  .techiknow-first,
+  .techiknow-second,
+  .techiknow-third {
+    font-size: 14px;
+    margin-top: -10px;
+  }
+}
