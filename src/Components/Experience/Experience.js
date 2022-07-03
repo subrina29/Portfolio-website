@@ -28,6 +28,23 @@ export const Experience = () => {
           >
             <b>Experience</b>
           </h1>
+          <h2>Web Developer Intern at RSL, Tasmania from September2020 to December 2020)</h2>
+          <p 
+          className="chatting-description"
+          style={{
+            textAlign: "left",
+            color: "rgb(168, 164, 164)",
+            backgroundColor: "#141414",
+          }}
+          >
+          Web Developer Intern at RSL, Tasmania from September2020 to December 2020)
+          ● Maintained the current website and added more appealing features.
+          ● Redesigned sections of the website to ensure a more attractive and user-friendly experience.
+          ● Created custom HTML emails for clients/in-house newsletters and invitations for distribution to our databases.
+          ● Enable security measures in the current website.
+          ● Plan and make progress in order to make the current website into an appealing one.
+ 
+          </p>
         </Col>
       </Row>
       <Row style={{ marginTop: "13px" }}>
