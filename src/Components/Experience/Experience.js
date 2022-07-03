@@ -30,18 +30,18 @@ export const Experience = () => {
           </h1>
           <h2>Web Developer Intern at RSL, Tasmania from September2020 to December 2020)</h2>
           <p 
-          className="Web Developer Intern at RSL"
-          style={{
-            textAlign: "left",
-            color: "rgb(168, 164, 164)",
-            backgroundColor: "#141414",
-          }}
+           data-aos="fade-up"
+           data-aos-delay="0"
+           data-aos-once
+           className="about-first"
+          
           >
-             ● Maintained the current website and added more appealing features.
-             ● Redesigned sections of the website to ensure a more attractive and user-friendly experience.
-             ● Created custom HTML emails for clients/in-house newsletters and invitations for distribution to our databases.
-             ● Enable security measures in the current website.
-             ● Plan and make progress in order to make the current website into an appealing one.
+          
+         <b> ● Maintained the current website and added more appealing features.</b>
+         <b> ● Redesigned sections of the website to ensure a more attractive and user-friendly experience.</b>
+         <b> ● Created custom HTML emails for clients/in-house newsletters and invitations for distribution to our databases.</b>
+         <b> ● Enable security measures in the current website.</b>
+         <b> ● Plan and make progress in order to make the current website into an appealing one.</b>
  
           </p>
         </Col>
