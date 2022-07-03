@@ -37,11 +37,11 @@ export const Experience = () => {
           
           >
           
-        <br> ● Maintained the current website and added more appealing features.</br>
-         <br> ● Redesigned sections of the website to ensure a more attractive and user-friendly experience.</br>
-         <br> ● Created custom HTML emails for clients/in-house newsletters and invitations for distribution to our databases.</br>
-         <br> ● Enable security measures in the current website.</br>
-         <br> ● Plan and make progress in order to make the current website into an appealing one.</br>
+        ● Maintained the current website and added more appealing features.<br>
+        ● Redesigned sections of the website to ensure a more attractive and user-friendly experience.<br>
+        ● Created custom HTML emails for clients/in-house newsletters and invitations for distribution to our databases.<br>
+        ● Enable security measures in the current website.<br>
+        ● Plan and make progress in order to make the current website into an appealing one.<br>
  
           </p>
         </Col>
