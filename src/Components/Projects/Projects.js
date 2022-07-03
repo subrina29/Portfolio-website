@@ -45,16 +45,16 @@ export const Projects = () => {
             bodyStyle={{ backgroundColor: "#141414" }}
             bordered={false}
             hoverable={true}
-            title="Remote Code Executor"
+            title=" Project: Investoscope "
             extra={
               <a
                 onMouseOver={handleHover}
                 style={{ color: "white" }}
-                href="https://github.com/rajatmaheshwari2512/remote-code-exec/"
+                href="https://subrinaislam29.wixsite.com/investoscope"
                 target="_blank"
                 rel="noreferrer"
               >
-                GitHub
+               Link
               </a>
             }
           >
@@ -66,11 +66,8 @@ export const Projects = () => {
                 backgroundColor: "#141414",
               }}
             >
-              A Remote Code Executor powered by NodeJS and Docker, a new
-              container is built for every new code submitted on the server,
-              SocketIO is also integrated in this project for a real-time
-              collaborative coding session. Appropriate Toast Notifications are
-              also shown for every user joining and leaving the room
+            Hackathon: UHack 
+           
             </p>
             <p
               className="rce-description"
@@ -80,21 +77,11 @@ export const Projects = () => {
                 backgroundColor: "#141414",
               }}
             >
-              Deployed on AWS on an EC2 instance, used Cloudflare as a DNS
-              provider for HTTPS support, implemented SwaggerUI for API
-              exploration
+             
+            Investoscope is the platform where investors can
+            search for the job of their interest and move further for the investment.
             </p>
-            <p
-              className="rce-description"
-              style={{
-                textAlign: "left",
-                color: "rgb(168, 164, 164)",
-                backgroundColor: "#141414",
-                marginTop: "27px",
-              }}
-            >
-              ReactJS NodeJS ExpressJS Docker
-            </p>
+         
           </Card>
         </Col>
         <Col xxl={0} xl={0} lg={3} xs={2} md={3} sm={3} />
