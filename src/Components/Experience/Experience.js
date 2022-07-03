@@ -36,7 +36,11 @@ export const Experience = () => {
            className="about-first"
           
           >
-
+             Maintained the current website and added more appealing features.
+             Redesigned sections of the website to ensure a more attractive and user-friendly experience.
+             Created custom HTML emails for clients/in-house newsletters and invitations for distribution to our databases.
+             Enable security measures in the current website.
+             Plan and make progress in order to make the current website into an appealing one.
  
           </p>
         </Col>
