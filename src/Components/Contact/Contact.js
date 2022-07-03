@@ -30,7 +30,7 @@ export const Contact = () => {
                 wordWrap: "break-word",
               }}
               strings={[
-                "This could be the start of something great! ^666Let's get in touch. . .",
+                "Let's know each other",
               ]}
               typeSpeed={40}
             />
@@ -81,7 +81,7 @@ export const Contact = () => {
               <a
                 target="_blank"
                 rel="noreferrer"
-                href="subrinaislam29@gmail.com"
+                href="mailto: subrinaislam29@gmail.com"
               >
                 <MailFilled
                   className="gmail-image"
@@ -98,7 +98,7 @@ export const Contact = () => {
               <a
                 target="_blank"
                 rel="noreferrer"
-                href="https://www.github.com"
+                href="https://github.com/subrina29"
               >
                 <GithubFilled
                   className="github-image"
