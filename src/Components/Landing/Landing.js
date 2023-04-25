@@ -32,14 +32,14 @@ export const Landing = () => {
           >
             <b>Subrina Islam</b>
           </p>
-          <p
+          {/* <p
             data-aos="fade"
             data-aos-delay="1000"
             data-aos-once
             className="short-desc"
           >
             My aim is to create things that contribute to improving the world.
-          </p>
+          </p> */}
           <p
             data-aos="fade"
             data-aos-delay="1400"
