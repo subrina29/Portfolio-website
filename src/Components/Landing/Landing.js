@@ -30,7 +30,7 @@ export const Landing = () => {
             data-aos-once
             className="name"
           >
-            <b>Subrina Islam.</b>
+            <b>Subrina Islam</b>
           </p>
           <p
             data-aos="fade"
@@ -38,9 +38,7 @@ export const Landing = () => {
             data-aos-once
             className="short-desc"
           >
-            <b>
-              My aim is to create things that contribute to improving the world.
-            </b>
+            My aim is to create things that contribute to improving the world
           </p>
           <p
             data-aos="fade"
