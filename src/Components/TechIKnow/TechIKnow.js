@@ -35,8 +35,8 @@ export const TechIKnow = () => {
               wide variety of skills.
             </p>
             <p className="techiknow-third">
-              My best skills include: JAVA(J2SE), PHP, HTML5, Javascript,
-              CSS3,XML, C#, ReactJS, ASP.NET.
+              My best skills include: JAVA(J2SE) PHP HTML5 Javascript CSS3 XML
+              C# ReactJS ASP.NET
             </p>
           </div>
         </Col>
@@ -105,8 +105,8 @@ export const TechIKnow = () => {
               <b>Tools</b>
             </h2>
             <p style={{ color: "rgb(168, 164, 164)" }} className="database">
-              Microsoft Office 360, Docker, Fiddler,Postman,Adobe Illustrator,
-              Adobe Photoshop, Video Editor.
+              Microsoft Office 360 Docker Fiddler Postman Adobe Illustrator
+              Adobe Photoshop Video Editor
             </p>
           </div>
           <div
@@ -125,7 +125,7 @@ export const TechIKnow = () => {
               <b>Databases</b>
             </h2>
             <p style={{ color: "rgb(168, 164, 164)" }} className="languages">
-              SQL Server Management Studio, IIS.
+              SQL Server Management Studio IIS
             </p>
           </div>
           <div
@@ -144,7 +144,7 @@ export const TechIKnow = () => {
               <b>Version Control</b>
             </h2>
             <p style={{ color: "rgb(168, 164, 164)" }} className="languages">
-              Git,BitBucket,Github.
+              Git BitBucket Github
             </p>
           </div>
           <div
@@ -163,7 +163,7 @@ export const TechIKnow = () => {
               <b>Languages</b>
             </h2>
             <p style={{ color: "rgb(168, 164, 164)" }} className="languages">
-              JAVA(J2SE), PHP, HTML5, Javascript, CSS3,XML, C#, ReactJS
+              JAVA(J2SE) PHP HTML5 Javascript CSS3 XML C# ReactJS
             </p>
           </div>
           <div
@@ -182,7 +182,7 @@ export const TechIKnow = () => {
               <b>Others</b>
             </h2>
             <p style={{ color: "rgb(168, 164, 164)" }} className="languages">
-              SAP, JIRA, Event viewers, Docker, Third party Integration, Cloud
+              SAP JIRA Event-Viewers Docker Third-party-Integration Cloud
             </p>
           </div>
         </Col>
