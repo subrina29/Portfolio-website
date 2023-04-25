@@ -30,7 +30,7 @@ export const Navbar = () => {
           <Col xxl={2} xl={2} lg={2} xs={1} md={2} sm={1} />
           <Col xxl={18} xl={18} lg={18} xs={22} md={20} sm={22}>
             <a href="/">
-             {/*  <svg
+              {/*  <svg
                 id="logo"
                 width="40%"
                 height="70"
@@ -124,7 +124,7 @@ export const Navbar = () => {
                   onMouseOver={handleHover}
                   target="_blank"
                   rel="noreferrer"
-                  href="https://drive.google.com/file/d/17XaOkvjpSfJWZjkrYKNmJdS0fGUIUKp1/view?usp=sharing"
+                  href="https://docs.google.com/document/d/1JIJWlcH6Fgp_5QeBINhK0iNjNuviqtmSlaKDNrYxN9Y/edit?usp=sharing"
                 >
                   Resume
                 </a>

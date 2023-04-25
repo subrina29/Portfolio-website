@@ -38,7 +38,9 @@ export const Landing = () => {
             data-aos-once
             className="short-desc"
           >
-            <b>I build things for the Web.</b>
+            <b>
+              My aim is to create things that contribute to improving the world.
+            </b>
           </p>
           <p
             data-aos="fade"
@@ -47,8 +49,11 @@ export const Landing = () => {
             className="long-desc"
             style={{ color: "rgb(168, 164, 164)" }}
           >
-            I am a web developer and looking for new opportunites.
-       
+            I am seeking to pursue a career in a field that I am passionate
+            about, where I can leverage my skills, knowledge, and communication
+            abilities to enhance my professional growth while contributing
+            towards achieving the organization's objectives and goals
+            effectively.
           </p>
         </Col>
         <Col xxl={5} xl={5} lg={3} xs={2} md={3} sm={3} />
