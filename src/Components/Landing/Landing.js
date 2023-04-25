@@ -38,7 +38,7 @@ export const Landing = () => {
             data-aos-once
             className="short-desc"
           >
-            My aim is to create things that contribute to improving the world
+            My aim is to create things that contribute to improving the world.
           </p>
           <p
             data-aos="fade"
