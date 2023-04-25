@@ -29,7 +29,8 @@ export const AboutMe = () => {
             data-aos-once
             className="about-first"
           >
-            I finish my Graduation from University of Tasmania.
+            I am working as a software support engineer at OZdocs International
+            Pty.
           </p>
           <p
             data-aos="fade-up"
@@ -37,9 +38,8 @@ export const AboutMe = () => {
             data-aos-once
             className="about-second"
           >
-            I'm always eager to learn new concepts
-            and apply them in my projects Currently I am actively looking for
-            new internship opportunities
+            I'm always eager to learn new concepts and apply them in my
+            projects. Currently I am actively looking for new opportunities
           </p>
           <p
             data-aos="fade-up"
@@ -57,7 +57,8 @@ export const AboutMe = () => {
             data-aos-once
             className="about-fourth"
           >
-            In my free time, I enjoy painting, watching movies and series.
+            In my free time, I enjoy painting, learning new things,watching
+            movies and series.
           </p>
         </Col>
         <Col xxl={1} xl={1} lg={7} xs={2} />
@@ -69,8 +70,7 @@ export const AboutMe = () => {
           xl={9}
           lg={9}
           style={{ display: "flex", alignItems: "center" }}
-        >
-        </Col>
+        ></Col>
         <Col lg={3} xs={2} md={3} sm={3} />
       </Row>
     </div>
